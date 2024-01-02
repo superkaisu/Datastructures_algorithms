@@ -1,5 +1,6 @@
 # Datastructures_algorithms
 My implementations on some common datastructures using Java as language
+NOTE: my work under commit "X-exercises"
 
 Contents:
 Every exercise comes with my self assessment, in Finnish.
